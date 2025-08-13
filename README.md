@@ -19,7 +19,7 @@ User authentication and session management are handled using **Clerk** for secur
 ## 🛠️ Tech Stack
 ### **Frontend**
 - ⚛️ React.js
-- 🎨 HTML, CSS, JavaScript,React js, Typerscript
+- 🎨 HTML, CSS, JavaScript, Typerscript
 - 🔐 Clerk Authentication
 
 ### **Backend**
